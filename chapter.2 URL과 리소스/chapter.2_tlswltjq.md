@@ -33,7 +33,8 @@ The following are two example URIs and their component parts:
 ```
 https://ko.wikipedia.org/wiki/URL
 <br><br>
-[터미널 사진 첨부] 이러한 것도 URL이라고할 수 있겠다.
+
+![Screenshot 2024-03-03 at 11 19 33 PM](https://github.com/Tobystudy/Http-Study/assets/41179427/c74dee9d-04d4-40db-acb3-ef8d6dad0a35)이러한 것도 URL이라고할 수 있겠다.
 
 | 컴포넌트 | 설명 | 기본 값 |
 |-----------|-------------|---------------|
@@ -62,7 +63,8 @@ URL의 #와같이 리소스의 특정위치를 특정하여 가르킬수 있다.
  상대 URL과 절대 URL로 나뉜다. 절대 URL은 리소스에 접근하기위한 모든 정보를 가지고있는 반면 상대 URL은 그렇지 않다.<br>
  상대 URL을 이용해 필요한 모든 정보를 얻기위해서는 기저 URL이 필요하며 이를 이용해 리소스에 접근할 수 있다.
 
-[URL변경 이미지 첨부]
+상대 URL을 절대 URL로 변경하기
+![image](https://github.com/Tobystudy/Http-Study/assets/41179427/d84b600d-0039-4532-acb3-df94d964dab2)
 
 ### 2.3.1 상대 URL
 ### 2.3. URL 확장
