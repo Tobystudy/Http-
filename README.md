@@ -2,9 +2,9 @@
 ![image](https://github.com/Tobystudy/Http-Study/assets/85499582/4d7a6bc5-f7e2-46cb-8bb4-9743e449a35b)
 
 # 진행 상황
-|시기|세션|내용|
-|-|-|-|
-|[2024.02.28]|session 1|킥오프| 비고 |
+|시기|세션|내용| 비고|
+|-|-|-|-|
+|[2024.02.28]|session 1|킥오프|  |
 |[2024.03.04]|session 2|챕터 1~2||
 |[2024.03.11]|session 3|챕터 3~4|kickbelldev 불참|
 
