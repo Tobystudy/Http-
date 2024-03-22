@@ -5,9 +5,7 @@
 
 ## 웹 애플리케이션 서버와 무엇이 다른가
 - 동적 컨텐츠의 제공 여부
-
 ![uploaded image](https://github.com/jinia91/blogBackUp/blob/main/img/236199762452512?raw=true)
-
 
 -  [웹서버 점유율](https://www.netcraft.com/blog/june-2023-web-server-survey/)![uploaded image](https://github.com/jinia91/blogBackUp/blob/main/img/236199096381472?raw=true)
 
