@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "e9e36ce17a10af36",
+    "type": "split",
+    "children": [
+      {
+        "id": "51d1b4a9f06d756e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21e212395a3f8862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapter.9 웹 로봇/chapter.9_tlswltjq.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "c65b80a7985820a8"
+          }
+        ]
+      },
+      {
+        "id": "35fddd794c6eadc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec9a5b2cb41fcd09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapter.9 웹 로봇/chapter.9_tlswltjq.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "c65b80a7985820a8"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0dcfcf8b18087cab",
+    "type": "split",
+    "children": [
+      {
+        "id": "c968bb5722ea0431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bad9ddcae4a7eb7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9729f1e50b6988fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4441c3992a52189",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9547bc6d6f85bc5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aa830cb87d479fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07512fa62f3c6758",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chapter.9 웹 로봇/chapter.9_tlswltjq.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70c5cce780eaa8ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "chapter.9 웹 로봇/chapter.9_tlswltjq.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfcf9ac3715542e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1dc358769e4222e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "chapter.9 웹 로봇/chapter.9_tlswltjq.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "07512fa62f3c6758",
+  "lastOpenFiles": [
+    "chapter.8 통합점/chapter8_tlswltjq.md",
+    "chapter.2 URL과 리소스/chapter.2_tlswltjq.md",
+    "chapter.9 웹 로봇/chapter.9_tlswltjq.md",
+    "chapter.9 웹 로봇",
+    "HTTP_ The Definitive Guide.pdf",
+    "chapter.7 캐시/chapter.7_kickbelldev.md",
+    "chapter.8 통합점/0327.md",
+    "chapter.7 캐시/chapter7_tlswltjq.md",
+    "chapter.6 프록시/chapter6_tlswltjq.md",
+    "chapter.4 커넥션 관리/chapter4_tlswltjq.md",
+    "chapter.8 통합점/chapter8_jinia91.md",
+    "chapter.8 통합점",
+    "chapter.7 캐시/chapter7_jinia91.md",
+    "chapter.7 캐시",
+    "Untitled.canvas",
+    "2024-03-27.md"
+  ]
+}
