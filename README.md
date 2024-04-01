@@ -7,7 +7,7 @@
 |[2024.02.28]|session 1|킥오프|  |
 |[2024.03.04]|session 2|챕터 1~2||
 |[2024.03.11]|session 3|챕터 3~4|kickbelldev 불참|
-|[2024.03.22]|session 4|챕터 5~6|kickbelldev 불참|
+|[2024.03.22]|session 4|챕터 5~6|kickbelldev 면접으로 불참|
 |[2024.03.27]|session 5|챕터 7~8||
 |[2024.04.01]|session 6|챕터 9~10||
 
