@@ -58,11 +58,18 @@
 - 필드는 총 13개
 - creation_utc, host_key, name, value, path, exprire_utc, secure 등
 
+<img width="1110" alt="image" src="https://github.com/Tobystudy/Http-Study/assets/85499582/40398fae-0c7f-447f-98f1-3c3ef1c5623b">
+
+- 실제로 SQL Lite 뷰어로 까볼수있다
+
 #### 사이트마다 다른 쿠키를 보낸다
 - 모두 전달한다면 성능 문제
 - 대부분이 무의미한 값일것
 - 도메인 경로 기준으로 생성된 쿠키만 보낸다.
 - Domain 속성!
+
+<img width="872" alt="image" src="https://github.com/Tobystudy/Http-Study/assets/85499582/40e1f997-dd95-4a5b-956c-55395bfb5f8d">
+
 
 #### 쿠키 구성요소
 
