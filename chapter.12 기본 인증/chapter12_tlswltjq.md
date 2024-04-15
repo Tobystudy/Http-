@@ -25,6 +25,7 @@
 ## 기본 인증
 기본인증 = ID, PW를이용한 로그인
 기본인증은 base64인코딩을 거친후 Authorization헤더에 담겨 전송된다.
+<img width="1146" alt="image" src="https://github.com/Tobystudy/Http-Study/assets/41179427/4ef948ef-6df5-42f1-99cb-f3f6b3719331">
 인코딩일뿐 암호화가 아니기에 여전히 위험에 노출되어있다.
 ### 프락시를 이용한 인증
 서버에 접근하기위해 프락시를 거치도록 한다. 프락시에 접근정책을 중앙화 하여 관리할 수 있다.
