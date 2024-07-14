@@ -1,16 +1,6 @@
 # Http 완벽가이드 스터디
 ![image](https://github.com/Tobystudy/Http-Study/assets/85499582/4d7a6bc5-f7e2-46cb-8bb4-9743e449a35b)
 
-# 진행 상황
-|시기|세션|내용| 비고|
-|-|-|-|-|
-|[2024.02.28]|session 1|킥오프|  |
-|[2024.03.04]|session 2|챕터 1~2||
-|[2024.03.11]|session 3|챕터 3~4|kickbelldev 불참|
-|[2024.03.22]|session 4|챕터 5~6|kickbelldev 면접으로 불참|
-|[2024.03.27]|session 5|챕터 7~8||
-|[2024.04.01]|session 6|챕터 9~10||
-
 
 # 자료 컨벤션
 - 개별적으로 정리하신 내용을 각 챕터 디렉토리에 "[chapter.1]_[이름].md" 으로 세션 하루 전날 12시까지 업로드해주세요
@@ -31,6 +21,6 @@
 # 참여자
 
 - jinia91
-- kickbelldev
 - tlswltjq
+- kickbelldev(중도 하차)
 
